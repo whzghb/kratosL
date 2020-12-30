@@ -1,0 +1,5 @@
+[log]
+dir="/var/log/kratosL/"
+
+[xx]
+aa="111"
